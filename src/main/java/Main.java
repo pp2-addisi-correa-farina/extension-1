@@ -1,5 +1,5 @@
-import org.pp2.ComandoDispositivo;
-import org.pp2.Dispositivo;
+import org.interfaces.ComandoDispositivo;
+import org.interfaces.Dispositivo;
 
 public class Main {
     public static void main(String[] args) {
