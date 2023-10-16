@@ -18,7 +18,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.pp2-addisi-correa-farina:separated-interface:4279bfe420'
+    implementation 'com.github.AngeloBenjamin0:pp2-lca-test:d40203e1c6'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.9.2'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.9.2'
 }
